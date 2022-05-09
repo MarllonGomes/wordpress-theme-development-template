@@ -1,0 +1,4 @@
+docker-compose.yml
+.db_data
+.wpfiles
+wordpress-theme.zip
